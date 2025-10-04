@@ -1,0 +1,4 @@
+curl --location 'http://localhost:8080/pdf/merge' \
+--header 'Accept: application/pdf' \
+--form 'files=@"/caminho/para/arquivo1.pdf"' \
+--form 'files=@"/caminho/para/arquivo2.pdf"'
