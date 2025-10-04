@@ -65,7 +65,9 @@ O servidor iniciará em:
 http://localhost:8080
 
 =======================================================
+
 🧩 Endpoint Disponível
+
 POST /pdf/merge
 
 Unifica vários arquivos PDF em um único arquivo PDF.
@@ -75,6 +77,7 @@ Requisição (multipart/form-data):
 
 Resposta:
     Retorna o arquivo PDF unificado.
+
 
 💻 Testando com Postman / cURL
 
@@ -97,25 +100,38 @@ Isso enviará os PDFs para o endpoint e salvará o resultado no arquivo saida.pd
 
 📂 Estrutura do Projeto
 JoinPDF/
+
 ├── src/
+
 │   ├── main/
+
 │   │   ├── java/com/example/joinpdf/
+
 │   │   │   ├── JoinPdfApplication.java
+
 │   │   │   └── controller/
+
 │   │   │       └── PdfMergeController.java
+
 │   │   ├── resources/
+
 │   │       ├── application.yml
+
 │   │       └── postman/
+
 │   │           └── merge-pdf.curl
+
 ├── pom.xml
+
 └── README.md
+
 
 
 
 🧑‍💻 Autor
 Brenno Pimenta da Costa
-
 github.com/brennopimenta
+
 
 
 
