@@ -36,7 +36,7 @@ usando o Postman e execute inserindo os arquivos .pdf que vc pretente juntar.
 
 
 Após a request,, salve a resposta no seu computador:
-![Exemplo do Response](https://github.com/brennopimenta/JoinPDF/blob/main/src/main/resources/static/Captura%de%tela%2025-10-04%154151_Response.png)
+![Exemplo do Response](https://github.com/brennopimenta/JoinPDF/blob/main/src/main/resources/static/Captura%20de%20tela%202025-10-04%20154151_Response.png)
 ....
 
 Para quem quiser explorar o projeto...
@@ -116,6 +116,7 @@ JoinPDF/
 Brenno Pimenta da Costa
 
 github.com/brennopimenta
+
 
 
 
