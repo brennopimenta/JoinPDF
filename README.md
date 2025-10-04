@@ -33,10 +33,10 @@ java -jar JoinPDF-0.0.1-SNAPSHOT.jar
 Após executar  aplicação,, utilize importe o código curl disponivel na pasta resource/postman/curl 
 usando o Postman e execute inserindo os arquivos .pdf que vc pretente juntar.
 
-![](src/main/resources/static/Captura de tela 2025-10-04 153845.png)
+![](/main/src/main/resources/static/Captura de tela 2025-10-04 153845.png)
 
 <img src="[caminho/para/sua/imagem.jpg](https://github.com/brennopimenta/JoinPDF/blob/main/src/main/resources/static/Captura%20de%20tela%202025-10-04%20153845.png)" alt="Descrição da imagem">
-![Exemplo de Imagem]([exemplo.png](https://github.com/brennopimenta/JoinPDF/blob/main/src/main/resources/static/Captura%20de%20tela%202025-10-04%20153845.png)
+![Exemplo de Imagem]([exemplo.png](/main/src/main/resources/static/Captura%20de%20tela%202025-10-04%20153845.png)
 
 Após a request,, salve a resposta no seu computador:
 ![](src/main/resources/static/Captura de tela 2025-10-04 154151_Response.png)
@@ -119,4 +119,5 @@ JoinPDF/
 Brenno Pimenta da Costa
 
 github.com/brennopimenta
+
 
